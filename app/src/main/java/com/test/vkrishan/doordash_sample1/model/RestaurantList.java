@@ -80,6 +80,11 @@ public class RestaurantList {
     public void setCover_img_url(String cover_img_url) {
         this.cover_img_url = cover_img_url;
     }
+
+    public String getCoverImgUrl() {
+        return cover_img_url;
+    }
+
 }
 
 
