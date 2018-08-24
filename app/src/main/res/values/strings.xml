@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">DoorDash_sample1</string>
+    <string name="app_name">DoorDash lite</string>
+    <string name="rest_name">Restaurant Name</string>
+    <string name="rest_info">Cuisine</string>
+    <string name="rest_status">Status</string>
+
+
+
 </resources>
